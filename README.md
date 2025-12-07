@@ -1,2 +1,2 @@
-# artifact-scanner-app
+# sigma 7 scanning app
 archaeological artifact scanning and tracking app
